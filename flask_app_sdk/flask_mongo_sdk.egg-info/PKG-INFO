@@ -1,0 +1,23 @@
+Metadata-Version: 2.1
+Name: flask_mongo_sdk
+Version: 0.1.0
+Summary: Python SDK for interacting with a Flask app using MongoDB
+Home-page: https://github.com/ShubhamVerma-Developer/flask-api-mongodb-sdk
+Author: Your Name
+Author-email: your.email@example.com
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Description-Content-Type: text/markdown
+Requires-Dist: requests>=2.25.1
+
+# Flask App SDK
+
+A simple Python SDK to interact with a Flask application.
+
+## Installation
+
+Install the SDK using pip:
+
+```bash
+pip install flask-app-sdk
